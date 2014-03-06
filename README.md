@@ -7,10 +7,12 @@ which perform a simple backtracking draw.
 It use SDL as graphic library.
 
 KNOWN BUG
+------
 
 There is an overlap from n = 4
 
 USE
+------
 
 To change the n, change the #define DEPTH
 
